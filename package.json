@@ -1,0 +1,17 @@
+{
+  "name": "atomtools",
+  "main": "./lib/atomtools",
+  "version": "0.0.0",
+  "description": "Various text editing tools",
+  "activationEvents": [
+    "atomtools:delete-indentation",
+    "atomtools:trim-and-newline"
+  ],
+  "repository": "https://github.com/paradoxxxzero/atomtools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
